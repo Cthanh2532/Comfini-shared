@@ -1,13 +1,22 @@
 {
   "version": 3,
-  "updatedAt": 1765791644384,
+  "updatedAt": 1765791693461,
   "root": "root",
   "folders": {
     "root": {
       "id": "root",
       "name": "Library",
       "parent": null,
-      "children": []
+      "children": [
+        "2ebd0b95-389c-4002-bc2b-5f72437a5255"
+      ]
+    },
+    "2ebd0b95-389c-4002-bc2b-5f72437a5255": {
+      "id": "2ebd0b95-389c-4002-bc2b-5f72437a5255",
+      "name": "mockup",
+      "parent": "root",
+      "children": [],
+      "order": 0
     }
   },
   "files": {}
