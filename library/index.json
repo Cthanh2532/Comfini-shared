@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": 1765792366104,
+  "updatedAt": 1765792406231,
   "root": "root",
   "folders": {
     "root": {
@@ -10,16 +10,5 @@
       "children": []
     }
   },
-  "files": {
-    "c98b4e62-b9f2-4841-9b63-fd27a5e66904": {
-      "id": "c98b4e62-b9f2-4841-9b63-fd27a5e66904",
-      "name": "NỐI DÂY LOCAL",
-      "type": "workflow",
-      "folder": "root",
-      "path": "workflows/NỐI DÂY LOCAL.comfini",
-      "size": 10941422,
-      "uploadedAt": 1765792366104,
-      "order": 0
-    }
-  }
+  "files": {}
 }
