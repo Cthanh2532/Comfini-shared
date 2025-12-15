@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": 1765791700899,
+  "updatedAt": 1765791752780,
   "root": "root",
   "folders": {
     "root": {
@@ -10,7 +10,8 @@
       "children": [
         "2ebd0b95-389c-4002-bc2b-5f72437a5255",
         "fb3c2a57-1ff6-4cd8-aee7-48c7ec06b1cf",
-        "fda3bceb-ed78-49ab-a7e7-ea1a17bd0384"
+        "fda3bceb-ed78-49ab-a7e7-ea1a17bd0384",
+        "bbce6153-4ccd-41f5-94c6-934577556262"
       ]
     },
     "2ebd0b95-389c-4002-bc2b-5f72437a5255": {
@@ -33,6 +34,13 @@
       "parent": "root",
       "children": [],
       "order": 2
+    },
+    "bbce6153-4ccd-41f5-94c6-934577556262": {
+      "id": "bbce6153-4ccd-41f5-94c6-934577556262",
+      "name": "a",
+      "parent": "root",
+      "children": [],
+      "order": 3
     }
   },
   "files": {}
