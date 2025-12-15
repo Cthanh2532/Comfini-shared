@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": 1765791693461,
+  "updatedAt": 1765791697692,
   "root": "root",
   "folders": {
     "root": {
@@ -8,7 +8,8 @@
       "name": "Library",
       "parent": null,
       "children": [
-        "2ebd0b95-389c-4002-bc2b-5f72437a5255"
+        "2ebd0b95-389c-4002-bc2b-5f72437a5255",
+        "fb3c2a57-1ff6-4cd8-aee7-48c7ec06b1cf"
       ]
     },
     "2ebd0b95-389c-4002-bc2b-5f72437a5255": {
@@ -17,6 +18,13 @@
       "parent": "root",
       "children": [],
       "order": 0
+    },
+    "fb3c2a57-1ff6-4cd8-aee7-48c7ec06b1cf": {
+      "id": "fb3c2a57-1ff6-4cd8-aee7-48c7ec06b1cf",
+      "name": "prompt",
+      "parent": "root",
+      "children": [],
+      "order": 1
     }
   },
   "files": {}
