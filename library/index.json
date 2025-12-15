@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": 1765791754317,
+  "updatedAt": 1765791757068,
   "root": "root",
   "folders": {
     "root": {
@@ -17,9 +17,7 @@
       "id": "2ebd0b95-389c-4002-bc2b-5f72437a5255",
       "name": "mockup",
       "parent": "root",
-      "children": [
-        "bbce6153-4ccd-41f5-94c6-934577556262"
-      ],
+      "children": [],
       "order": 0
     },
     "fb3c2a57-1ff6-4cd8-aee7-48c7ec06b1cf": {
@@ -35,13 +33,6 @@
       "parent": "root",
       "children": [],
       "order": 2
-    },
-    "bbce6153-4ccd-41f5-94c6-934577556262": {
-      "id": "bbce6153-4ccd-41f5-94c6-934577556262",
-      "name": "a",
-      "parent": "2ebd0b95-389c-4002-bc2b-5f72437a5255",
-      "children": [],
-      "order": 3
     }
   },
   "files": {}
