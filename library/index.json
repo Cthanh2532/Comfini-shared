@@ -1,22 +1,13 @@
 {
   "version": 3,
-  "updatedAt": 1765791978063,
+  "updatedAt": 1765791980477,
   "root": "root",
   "folders": {
     "root": {
       "id": "root",
       "name": "Library",
       "parent": null,
-      "children": [
-        "1396e406-a38c-408e-98f1-d3623c5da9c7"
-      ]
-    },
-    "1396e406-a38c-408e-98f1-d3623c5da9c7": {
-      "id": "1396e406-a38c-408e-98f1-d3623c5da9c7",
-      "name": "a",
-      "parent": "root",
-      "children": [],
-      "order": 0
+      "children": []
     }
   },
   "files": {
