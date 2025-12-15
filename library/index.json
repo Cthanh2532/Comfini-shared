@@ -1,22 +1,24 @@
 {
-  "version": "1.0",
-  "updatedAt": 1765790297083,
-  "items": [
-    {
-      "id": "e2fb1d21-a750-4e1a-86eb-24bb63362890",
-      "name": "Untitled.comfini",
-      "type": "workflow",
-      "path": "workflows/Untitled.comfini",
-      "size": 690,
-      "uploadedAt": 1765790135494
-    },
-    {
+  "version": 3,
+  "updatedAt": 1765791642508,
+  "root": "root",
+  "folders": {
+    "root": {
+      "id": "root",
+      "name": "Library",
+      "parent": null,
+      "children": []
+    }
+  },
+  "files": {
+    "2a2e0d0b-8242-4f4a-ab09-38ee7a02d695": {
       "id": "2a2e0d0b-8242-4f4a-ab09-38ee7a02d695",
       "name": "mockup-library-export (6)",
       "type": "mockup",
+      "folder": "root",
       "path": "mockups/mockup-library-export (6).zip",
       "size": 276956,
       "uploadedAt": 1765790297056
     }
-  ]
+  }
 }
