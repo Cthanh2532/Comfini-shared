@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": 1765791642508,
+  "updatedAt": 1765791644384,
   "root": "root",
   "folders": {
     "root": {
@@ -10,15 +10,5 @@
       "children": []
     }
   },
-  "files": {
-    "2a2e0d0b-8242-4f4a-ab09-38ee7a02d695": {
-      "id": "2a2e0d0b-8242-4f4a-ab09-38ee7a02d695",
-      "name": "mockup-library-export (6)",
-      "type": "mockup",
-      "folder": "root",
-      "path": "mockups/mockup-library-export (6).zip",
-      "size": 276956,
-      "uploadedAt": 1765790297056
-    }
-  }
+  "files": {}
 }
