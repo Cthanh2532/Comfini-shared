@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": 1765791697692,
+  "updatedAt": 1765791700899,
   "root": "root",
   "folders": {
     "root": {
@@ -9,7 +9,8 @@
       "parent": null,
       "children": [
         "2ebd0b95-389c-4002-bc2b-5f72437a5255",
-        "fb3c2a57-1ff6-4cd8-aee7-48c7ec06b1cf"
+        "fb3c2a57-1ff6-4cd8-aee7-48c7ec06b1cf",
+        "fda3bceb-ed78-49ab-a7e7-ea1a17bd0384"
       ]
     },
     "2ebd0b95-389c-4002-bc2b-5f72437a5255": {
@@ -25,6 +26,13 @@
       "parent": "root",
       "children": [],
       "order": 1
+    },
+    "fda3bceb-ed78-49ab-a7e7-ea1a17bd0384": {
+      "id": "fda3bceb-ed78-49ab-a7e7-ea1a17bd0384",
+      "name": "workflow",
+      "parent": "root",
+      "children": [],
+      "order": 2
     }
   },
   "files": {}
