@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": 1765792406231,
+  "updatedAt": 1765792413305,
   "root": "root",
   "folders": {
     "root": {
@@ -10,5 +10,16 @@
       "children": []
     }
   },
-  "files": {}
+  "files": {
+    "3f42206f-87c5-4266-b14b-18fa319971c1": {
+      "id": "3f42206f-87c5-4266-b14b-18fa319971c1",
+      "name": "car lỗi",
+      "type": "mockup",
+      "folder": "root",
+      "path": "mockups/car lỗi.zip",
+      "size": 276503,
+      "uploadedAt": 1765792413305,
+      "order": 0
+    }
+  }
 }
