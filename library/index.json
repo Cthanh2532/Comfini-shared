@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": 1765791822921,
+  "updatedAt": 1765791825592,
   "root": "root",
   "folders": {
     "root": {
@@ -10,15 +10,5 @@
       "children": []
     }
   },
-  "files": {
-    "e2fb1d21-a750-4e1a-86eb-24bb63362890": {
-      "id": "e2fb1d21-a750-4e1a-86eb-24bb63362890",
-      "name": "Untitled.comfini",
-      "type": "workflow",
-      "folder": "root",
-      "path": "workflows/Untitled.comfini",
-      "size": 690,
-      "uploadedAt": 1765790135494
-    }
-  }
+  "files": {}
 }
