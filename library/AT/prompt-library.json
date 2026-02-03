@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "8e993b1f-2410-44fc-824e-a73cb7d5790d",
+      "type": "prompt",
+      "name": "tan",
+      "content": "",
+      "updatedAt": 1765242412046
+    },
+    {
+      "id": "531a2515-1545-4b3b-a058-ba095098569a",
+      "type": "prompt",
+      "name": "black",
+      "content": "",
+      "updatedAt": 1765242418509
+    },
+    {
+      "id": "514ba663-96b9-4c49-b1f7-11f818c7eff9",
+      "type": "prompt",
+      "name": "gouche style",
+      "content": "2D painterly folk art illustration, gouache-style.\nFlat color blocks, visible brush texture, no lineart.\nGraphic shapes, clear color separation,vintage palette.white background",
+      "updatedAt": 1765332063304
+    },
+    {
+      "id": "1505bed9-a601-445c-8c43-62b4435889ea",
+      "type": "prompt",
+      "name": "clay",
+      "content": "Claymation character, hand-sculpted clay, visible fingerprints, matte texture, stylized proportions, stop-motion look.",
+      "updatedAt": 1765333436177
+    },
+    {
+      "id": "f339957e-5c71-4618-9085-f9738722a83d",
+      "type": "prompt",
+      "name": "pencil",
+      "content": "Expressive graphite pencil sketch, loose hand-drawn lines, cross-hatching shading, raw unfinished look.",
+      "updatedAt": 1765362868587
+    },
+    {
+      "id": "867eb6ba-07c1-43c9-8eed-f3484890e109",
+      "type": "folder",
+      "name": "toc 2d",
+      "children": []
+    },
+    {
+      "id": "465809bd-0dab-4461-95c7-e6257e1e2767",
+      "type": "prompt",
+      "name": "toc",
+      "content": "chuyển ảnh tóc thành style 2D flat cartoon, không 3D, 2D painterly folk art illustration, gouache-style.\nFlat color blocks, visible brush texture, super thin dark lineart.\nGraphic shapes, clear color separation,vintage palette.Clean thin linework with thin minimal outlines, smooth brush transitions, slightly exaggerated body shapes for charm, soft studio lighting, and a clean white background creating a modern storybook / Pixar-inspired 2D look without 3D depth. white background",
+      "updatedAt": 1769489460553
+    }
+  ]
+}
