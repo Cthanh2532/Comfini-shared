@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "40487841-b142-4ef0-ab87-8315ac7235b1",
+      "type": "prompt",
+      "name": "Prompt siêu cấp vip pro",
+      "content": "Use [IMAGE 1] as the base composition and original scene.\nStrictly preserve the entire scene exactly as it appears in IMAGE 1, including background, environment, camera angle, framing, aspect ratio, lighting direction and intensity, depth of field, shadows, reflections, perspective, camera distance, human pose, hand position (if present), and overall scene structure.\n\nOnly replace the original product with the product from [IMAGE 2].\n\nThe new product must perfectly match the exact shape, structure, proportions, scale, colors, typography, logo placement, surface details, and design elements from IMAGE 2.\nPlace it in the exact same position as the original product in IMAGE 1, maintaining identical perspective alignment and physical interaction (such as being held, placed, or resting on a surface).\nEnsure realistic contact shadows, environmental reflections, natural light blending, and seamless integration into the original environment.\n\nThe replacement must be complete and clean, with no leftover elements from the original product.\nNo changes to background, no camera repositioning, no cropping adjustments, no scene redesign.\nOnly product replacement.\n\nUltra realistic, photorealistic, seamless product swap, high identity preservation, strong structure consistency, 4K detail, natural lighting integration.\n\nNegative prompt: original product design remaining, mixed design, blended artwork, partial replacement, leftover elements, distorted product, warped shape, incorrect proportions, wrong scale, perspective mismatch, lighting mismatch, shadow inconsistency, reflection inconsistency, altered background, new background, background modification, camera angle change, zoom change, crop change, framing change, hand distortion, extra fingers, missing fingers, unnatural hands, floating object, misplaced object, duplicate product, stretched text, broken typography, extra text, missing text, logo distortion, color shift, color bleeding, blur, low resolution, noise, artifacts, unrealistic texture.",
+      "updatedAt": 1772697558647
+    }
+  ]
+}
